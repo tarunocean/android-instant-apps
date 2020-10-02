@@ -1,4 +1,4 @@
-# Android Instant Apps - Sample code collection
+# Android Instant Apps - This is a Sample code collection
 
 This repo has been migrated to [github.com/android/app-bundle][1]. Please check that repo for future updates. Thank you!
 
